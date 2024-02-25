@@ -1,0 +1,51 @@
+
+.frame{
+    height: 800px;
+    width: 100%;
+    border: 2px solid;
+    background-color: rgb(120, 205, 226);
+}
+.header{
+    height: 100px;
+    width: 100%;
+   
+}
+.header a{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 50px;
+    text-decoration: none;
+    line-height: 80px;
+    
+
+}
+.center{
+    height: 600px;
+    width: 100%;
+}
+.center label{
+    padding: 50px;
+    color: white;
+}
+.right{
+    height: 600px;
+    width: 600px;
+  
+    float: right;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+  
+}
+p{
+    font-size: 20px;
+    line-height: 25px;
+    padding: 10px;
+    color: white;
+}
+h1, h3 {
+   
+    color: blue;
+    text-shadow: 5px 5px 4px rgba(10, 39, 204, 0.5);
+}
